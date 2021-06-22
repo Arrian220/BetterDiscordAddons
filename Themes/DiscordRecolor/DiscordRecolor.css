@@ -223,9 +223,6 @@ svg [fill="#4F545C"] {
 ::selection {
 	background: rgb(var(--mentioncolor, --warningcolor));
 }
-.highlight {
-	background: rgba(var(--mentioncolor, --warningcolor),.3);
-}
 
 #app-mount .elevationLow-2lY09M, #app-mount .elevationLow-126AxN, .lightElevationLow-3_Ybxi, .darkElevationLow-DABD7i {
 	box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
